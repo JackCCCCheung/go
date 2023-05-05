@@ -5,10 +5,10 @@
 package fmt
 
 import (
-	"internal/fmtsort"
 	"io"
 	"os"
 	"reflect"
+	"std/internal/fmtsort"
 	"strconv"
 	"sync"
 	"unicode/utf8"
